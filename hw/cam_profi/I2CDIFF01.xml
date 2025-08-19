@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/I2CDIFF01.kicad_sch</source>
+    <date>2025-08-19T22:49:35+0000</date>
+    <tool>Eeschema 9.0.1+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>I2CDIFF01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF/16V</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_11" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bd989</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_12" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bdeac</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bf9c5</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_14" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bfa37</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c33655</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c33656</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47uF</value>
+      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
+      <fields>
+        <field name="Footprint">Mlab_C:TantalC_SizeC_Reflow</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="CP_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="CP* Elko* TantalC* C*elec c_elec* SMD*_Pol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568e10b3</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="C_10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C? C_????_* C_???? SMD*_c Capacitor*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056b25436</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SMBJ15A-E3/52</value>
+      <footprint>Mlab_D:Diode-SMB_Standard</footprint>
+      <fields>
+        <field name="Footprint">Mlab_D:Diode-SMB_Standard</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="D_ZENER_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c1495</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SP1001-04XTG</value>
+      <footprint>Mlab_IO:SOT-553</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:SOT-553</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="D_4xZENER_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568cf656</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SP1001-04XTG</value>
+      <footprint>Mlab_IO:SOT-553</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:SOT-553</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="D_4xZENER_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568cfccb</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>JUMP_4X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x04</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_4X2_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056911a4a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RJ45_RJHSE-5384</value>
+      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
+      <fields>
+        <field name="Footprint">Mlab_CON:RJHSE-5384(RJ45)</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="RJ45_RJHSE-5384_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b891c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056b1f3e3</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_24" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568d8fde</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_19" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568d9408</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_20" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568db005</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_21" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568db07b</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_22" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568db1c8</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_23" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568db2a0</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>JUMP_3X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_3X2_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c2e13</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP2_2x1_6" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c0724</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>CONN_3</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="CONN_3_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c8aec</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>JUMP_3X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_3X2_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c3105</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP2_2x1_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c5c78</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>CONN_3</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="CONN_3_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c6ee7</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>CONN1_1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="CONN1_1_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000574de7ec</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP2_2x1_5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056934ac7</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>CONN1_1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="CONN1_1_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000574dea00</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_17" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b97b4</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_15" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b9545</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_16" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b95c0</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_18" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b9802</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="JUMP_2x1_14" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568b985e</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="HOLE_6" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568dcc14</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="HOLE_7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568dcfb0</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="HOLE_5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568dd0c8</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="HOLE_8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568dd160</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_29" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c3364d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_28" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c3364c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_27" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128a83</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>120</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_26" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005612887a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_25" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128d20</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_18" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128b6e</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>120</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_21" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000561289ea</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_22" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128d26</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_17" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128bad</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>120</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_24" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128a2e</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>620</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_23" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056128d2c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_16" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568c5d2d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4k7</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_19" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c48899</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4k7</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_20" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c4889f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="R_30" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_* Resistor_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000056b24b76</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM1117 5V</value>
+      <footprint>Mlab_IO:SOT-223</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:SOT-223</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="LM1117_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bd657</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM1117 3V3</value>
+      <footprint>Mlab_IO:SOT-223</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:SOT-223</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="LM1117_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000568bf5d6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>PCA9616</value>
+      <footprint>Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm</footprint>
+      <fields>
+        <field name="Footprint">Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="PCA9616_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="I2CDIFF01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055c33645</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="CONN1_1_3">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN1_1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CONN1_1_4">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN1_1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CONN_3_3">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_3</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CONN_3_4">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_3</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CP_2">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_10">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_11">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_12">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_13">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_14">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_8">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C_9">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="D_4xZENER_3">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_4xZENER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="D_4xZENER_4">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_4xZENER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="D_ZENER_2">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ZENER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="HOLE_5">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="HOLE_6">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="HOLE_7">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="HOLE_8">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP2_2x1_4">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP2_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP2_2x1_5">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP2_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP2_2x1_6">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP2_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_13">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_14">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_15">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_16">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_17">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_18">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_19">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_20">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_21">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_22">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_23">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_2x1_24">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_3X2_3">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_3X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="6" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_3X2_4">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_3X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="6" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="JUMP_4X2_2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_4X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="5" type="passive"/>
+        <pin num="7" name="8" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LM1117_3">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM1117</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="unspecified"/>
+        <pin num="2" name="OUT" type="unspecified"/>
+        <pin num="3" name="IN" type="input"/>
+        <pin num="4" name="OUT" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="LM1117_4">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM1117</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="unspecified"/>
+        <pin num="2" name="OUT" type="unspecified"/>
+        <pin num="3" name="IN" type="input"/>
+        <pin num="4" name="OUT" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="PCA9616_2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9616</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VddA" type="input"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SCL" type="bidirectional"/>
+        <pin num="5" name="~{PIDET}" type="open_collector"/>
+        <pin num="6" name="~{READY}" type="open_collector"/>
+        <pin num="7" name="INT" type="bidirectional"/>
+        <pin num="8" name="VSS" type="input"/>
+        <pin num="9" name="VDDA_SEL" type="input"/>
+        <pin num="10" name="DINTP" type="bidirectional"/>
+        <pin num="11" name="DINTM" type="bidirectional"/>
+        <pin num="12" name="DSCLM" type="bidirectional"/>
+        <pin num="13" name="DSCLP" type="input"/>
+        <pin num="14" name="DSDAP" type="bidirectional"/>
+        <pin num="15" name="DSDAM" type="bidirectional"/>
+        <pin num="16" name="VddB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="RJ45_RJHSE-5384_2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ45_RJHSE-5384</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="D2_K" type="unspecified"/>
+        <pin num="10" name="D2_A" type="unspecified"/>
+        <pin num="11" name="D1_K" type="unspecified"/>
+        <pin num="12" name="D1_A" type="unspecified"/>
+        <pin num="13" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_16">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_17">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_18">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_19">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_20">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_21">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_22">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_23">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_24">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_25">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_26">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_27">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_28">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_29">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="R_30">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Field5"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="/EN" class="Default">
+      <node ref="J16" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="2" name="/INT" class="Default,dif">
+      <node ref="J18" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="INT" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/INT+" class="dif">
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="J2" pin="8" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="DINTP" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/INT-" class="dif">
+      <node ref="D3" pin="3" pintype="passive"/>
+      <node ref="J2" pin="7" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="DINTM" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/PIDENT" class="Default">
+      <node ref="J2" pin="9" pinfunction="D2_K" pintype="unspecified"/>
+      <node ref="U3" pin="5" pinfunction="~{PIDET}" pintype="open_collector"/>
+    </net>
+    <net code="6" name="/READY" class="Default">
+      <node ref="J2" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="~{READY}" pintype="open_collector"/>
+    </net>
+    <net code="7" name="/SCL+" class="dif">
+      <node ref="D3" pin="4" pintype="passive"/>
+      <node ref="J2" pin="6" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="DSCLP" pintype="input"/>
+    </net>
+    <net code="8" name="/SCL-" class="dif">
+      <node ref="D3" pin="5" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="DSCLM" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SDA+" class="dif">
+      <node ref="D2" pin="5" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="DSDAP" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SDA-" class="dif">
+      <node ref="D2" pin="4" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="DSDAM" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/VDD1" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J12" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="OUT" pintype="unspecified"/>
+      <node ref="U1" pin="4" pinfunction="OUT" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="12" name="/VDD2" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="J13" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="unspecified"/>
+      <node ref="U2" pin="4" pinfunction="OUT" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/VddA" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VddA" pintype="input"/>
+    </net>
+    <net code="14" name="/VddB" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="VddB" pintype="input"/>
+    </net>
+    <net code="15" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="8" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="6" pintype="passive"/>
+      <node ref="J10" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J13" pin="5" pinfunction="6" pintype="passive"/>
+      <node ref="J13" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J19" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U3" pin="8" pinfunction="VSS" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(J2-D1_A)" class="Default">
+      <node ref="J2" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J2-D2_A)" class="Default">
+      <node ref="J2" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J2-SHIELD)" class="Default">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U3-VDDA_SEL)" class="Default">
+      <node ref="J14" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="VDDA_SEL" pintype="input"/>
+    </net>
+    <net code="20" name="SCL" class="Default">
+      <node ref="J22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="SDA" class="Default">
+      <node ref="J20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="VCC" class="Default">
+      <node ref="J1" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="5" pintype="passive"/>
+      <node ref="J17" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+    </net>
+    <net code="23" name="VDD" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="24" name="unconnected-(D2-Pad1)" class="Default">
+      <node ref="D2" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(D2-Pad3)" class="Default">
+      <node ref="D2" pin="3" pintype="passive"/>
+    </net>
+  </nets>
+</export>
