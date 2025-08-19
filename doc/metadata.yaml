@@ -4,6 +4,7 @@ github_description: "Allows long range I\xB2C communication in harsh environment
 github_repo: I2CDIFF01
 github_url: https://github.com/mlab-modules/I2CDIFF01
 homepage: false
+image_title: doc/gen/img/I2CDIFF01-top.png
 images:
 - doc/img/I2CDIFF01B_top_small.jpg
 - doc/img/I2CDIFF01B_QRcode.png
@@ -17,7 +18,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/I2CDIFF01-ibom.html
 mod_scheme: doc/gen/I2CDIFF01-schematic.pdf
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module

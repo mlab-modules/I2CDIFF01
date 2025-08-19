@@ -1,6 +1,6 @@
 # I2CDIFF01 - Differential I²C Transceiver
 
-![I2CDIFF01B](/doc/img/I2CDIFF01B_QRcode.png)
+![I2CDIFF01B](doc/gen/img/I2CDIFF01-top.png)
 
 Allows long-range I²C communication in harsh environments. In addition to I²C data transfer, the module supports bidirectional interrupt signaling over the same cable.
 
