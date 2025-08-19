@@ -7,10 +7,19 @@ homepage: false
 images:
 - doc/img/I2CDIFF01B_top_small.jpg
 - doc/img/I2CDIFF01B_QRcode.png
+- doc/gen/img/I2CDIFF01-top.png
+- doc/gen/img/I2CDIFF01-bottom.png
+- hw/cam_profi/assembly/I2CDIFF01-assembly_page_01.svg
+- hw/cam_profi/assembly/I2CDIFF01-assembly_page_02.svg
+- doc/gen/I2CDIFF01-schematic.svg
+- doc/gen/img/I2CDIFF01-top.svg
+- doc/gen/img/I2CDIFF01-bottom.svg
 mark: 50
+mod_ibom: hw/cam_profi/I2CDIFF01-ibom.html
+mod_scheme: doc/gen/I2CDIFF01-schematic.pdf
 status: 0
 tags:
 - mlab
 - mlab-module
 title: I2CDIFF01
-updated: '2025-08-19T22:48:07.180643+00:00'
+updated: '2025-08-19T22:50:12.898168+00:00'
